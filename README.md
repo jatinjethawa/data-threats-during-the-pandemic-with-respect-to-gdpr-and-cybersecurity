@@ -1,1 +1,2 @@
 # data-threats-during-the-pandemic-with-respect-to-gdpr-and-cybersecurity
+Due to rapid increase covid19 cases, there are potential risks that have been accelerated and turbocharged by the pandemic while collecting data during this pandemic. The following report discusses the standard operating procedures and types of risk associated during collection of data during this uncertain times and further it discusses the best practices to comply with ISO 27001.
